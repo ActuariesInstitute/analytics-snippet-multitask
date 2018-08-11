@@ -1,0 +1,5 @@
+install.packages("dplyr")
+install.packages("ggplot2")
+devtools::install_github("rstudio/keras")
+library(keras)
+install_keras()
