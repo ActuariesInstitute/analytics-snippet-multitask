@@ -114,18 +114,3 @@ predict_and_plot <- function(df, train_average_frequency, train_average_risk_pre
 
 train = predict_and_plot(train, summary$train_average_frequency, summary$train_average_risk_premium)
 test = predict_and_plot(test, summary$train_average_frequency, summary$train_average_risk_premium)
-
-library(ggplot2)
-
-# Change the colors manually
-p <- ggplot(data=df_new, aes(x=model_payment_band, y=len, fill=supp)) +
-  geom_bar(stat="identity", color="black", position=position_dodge())+
-  theme_minimal() + scale_fill_brewer(palette="Blues")
-
-
-
-# Use custom colors
-p + scale_fill_manual(values=c('#999999','#E69F00'))
-# Use brewer color palettes
-p + scale_fill_brewer(palette="Blues")
-  
