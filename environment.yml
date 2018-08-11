@@ -11,4 +11,4 @@ dependencies:
   - tensorflow
   - Keras==2.2.2
   - ipython==6.5.0
-  - scikit_learn
+  - scikit-learn
