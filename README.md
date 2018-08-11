@@ -1,5 +1,4 @@
-# analytics-snippet-multitask
-Analytics Snippet: Multi-Task Risk Pricing Using Deep Learning
+# Analytics Snippet: Multi-Task Risk Pricing Using Deep Learning
 
 Run the notebook interactively using the Binder link below:
 
