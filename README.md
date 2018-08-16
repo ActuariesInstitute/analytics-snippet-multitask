@@ -4,4 +4,4 @@ Supporting code repository for the [Actuaries Digital](http://actuaries.digital/
 
 [Python (Jupyter): ![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ActuariesInstitute/analytics-snippet-multitask/master?filepath=Multitasking%20Risk%20Pricing.ipynb)
 
-[R (Rstudio): ![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ActuariesInstitute/analytics-snippet-multitask/master?filepath=multitask_risk_pricing.R&urlpath=rstudio)
+[R (RStudio): ![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ActuariesInstitute/analytics-snippet-multitask/master?filepath=multitask_risk_pricing.R&urlpath=rstudio)
